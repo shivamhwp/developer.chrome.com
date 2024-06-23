@@ -4,6 +4,54 @@ A list of everything that has been covered in the [What's New In DevTools](/tags
 
 {# $content #}
 
+### Chrome 120 {: #chrome120 }
+
+* [Third-party cookie phaseout](/blog/new-in-devtools-120/#3pc)
+* [Analyze your website's cookies with the Privacy Sandbox Analysis Tool](/blog/new-in-devtools-120/#ps-analysis-tool)
+* [Enhanced ignore listing](/blog/new-in-devtools-120/#ignore-listing)
+* [Default exclusion pattern for node_modules](/blog/new-in-devtools-120/#default-regex)
+* [Caught exceptions now stop execution if caught or passing through non-ignored code](/blog/new-in-devtools-120/#exceptions)
+* [`x_google_ignoreList` renamed to `ignoreList` in source maps](/blog/new-in-devtools-120/#ignore-list-spec)
+* [New input mode toggle during remote debugging](/blog/new-in-devtools-120/#remote-input-mode)
+* [The Elements panel now shows URLs for #document nodes](/blog/new-in-devtools-120/#document-urls)
+* [Effective Content Security Policy in the Application panel](/blog/new-in-devtools-120/#csp)
+* [Improved animation debugging](/blog/new-in-devtools-120/#animations)
+* ['Do you trust this code?' dialog in Sources and self-XSS warning in Console](/blog/new-in-devtools-120/#self-xss)
+* [Event listener breakpoints in web workers and worklets](/blog/new-in-devtools-120/#worker-breakpoints)
+* [The new media badge for `<audio>` and `<video>`](/blog/new-in-devtools-120/#media)
+* [Preloading renamed to Speculative loading](/blog/new-in-devtools-120/#speculative-loading)
+* [Lighthouse 11.2.0](/blog/new-in-devtools-120/#lighthouse)
+* [Accessibility improvements](/blog/new-in-devtools-120/#accessibility)
+* [Miscellaneous highlights](/blog/new-in-devtools-120/#misc)
+
+### Chrome 119 {: #chrome119 }
+
+* [Improved @property section in Elements > Styles](/blog/new-in-devtools-119/#css)
+* [Editable @property rule](/blog/new-in-devtools-119/#edit-property)
+* [Issues with invalid @property rules are reported](/blog/new-in-devtools-119/#property-issues)
+* [Updated list of devices to emulate](/blog/new-in-devtools-119/#devices)
+* [Pretty-print inline JSON in script tags in Sources](/blog/new-in-devtools-119/#sources)
+* [Autocomplete private fields in Console](/blog/new-in-devtools-119/#autocomplete-console)
+* [Lighthouse 11.1.0](/blog/new-in-devtools-119/#lighthouse)
+* [Accessibility improvements](/blog/new-in-devtools-119/#accessibility)
+* [Web SQL deprecation](/blog/new-in-devtools-119/#web-sql)
+* [Screenshot aspect ratio validation in Application > Manifest](/blog/new-in-devtools-119/#manifest-aspect-ratio)
+* [Miscellaneous highlights](/blog/new-in-devtools-119/#misc)
+
+### Chrome 118 {: #chrome118 }
+
+* [New section for custom properties in Elements > Styles](/blog/new-in-devtools-118/#css)
+* [More local overrides improvements](/blog/new-in-devtools-118/#overrides)
+* [Enhanced search](/blog/new-in-devtools-118/#search)
+* [Improved Sources panel](/blog/new-in-devtools-118/#sources)
+* [Streamlined workspace in the Sources panel](/blog/new-in-devtools-118/#workspace)
+* [Reorder panes in Sources](/blog/new-in-devtools-118/#reorder-panes)
+* [Syntax highlighting and pretty-printing for more script types](/blog/new-in-devtools-118/#syntax)
+* [Emulate prefers-reduced-transparency media feature](/blog/new-in-devtools-118/#reduced-transparency)
+* [Lighthouse 11](/blog/new-in-devtools-118/#lighthouse)
+* [Accessibility improvements](/blog/new-in-devtools-118/#accessibility)
+* [Miscellaneous highlights](/blog/new-in-devtools-118/#misc)
+
 ### Chrome 117 {: #chrome117 }
 
 * [Network panel improvements](/blog/new-in-devtools-117/#network)

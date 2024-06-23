@@ -5,7 +5,7 @@ subhead: Work on more than one document at a time with tabs in your Progressive 
 authors:
   - thomassteiner
 date: 2021-02-25
-updated: 2023-08-17
+updated: 2023-08-28
 description: |
   Tabbed application mode allows Progressive Web App developers to add a tabbed document interface
   to their standalone PWAs.
@@ -89,7 +89,7 @@ window.
 | 1. Create explainer                      | [Completed][explainer]   |
 | 2. Create initial draft of specification | Not started              |
 | 3. Gather feedback & iterate on design   | [In progress](#feedback) |
-| 4. Origin trial                          | Not started              |
+| 4. Origin trial                          | [In progress][ot]        |
 | 5. Launch                                | Not started              |
 
 </div>
@@ -173,6 +173,29 @@ A complete example to configure the behavior of an app with a tabbed interface m
 }
 ```
 
+### Detecting tabbed application mode
+
+Apps can detect whether they are running in tabbed application mode by checking the
+[`display-mode`](https://developer.mozilla.org/docs/Web/CSS/@media/display-mode) CSS media feature
+in either CSS or JavaScript:
+
+```css
+@media (display-mode: tabbed) {
+  /* Styles to apply in tabbed application mode. */
+}
+```
+
+```js
+const tabbedApplicationModeEnabled = window.matchMedia('(display-mode: tabbed)').matches;
+```
+
+### Interaction with the Launch Handler API
+
+The [Launch Handler API](/docs/web-platform/launch-handler/) lets sites redirect app
+launches into existing app windows to prevent duplicate windows from being opened. When a
+tabbed app sets `"client_mode": "navigate-new"`, app launches will open a new tab in an
+existing app window.
+
 ### Demo
 
 You can try tabbed application mode by setting a browser flag:
@@ -228,3 +251,4 @@ was reviewed by [Joe Medley](https://github.com/jpmedley). Hero image by
 [cr-dev-twitter]: https://twitter.com/ChromiumDev
 [issue]: https://github.com/w3c/manifest/issues/737
 [explainer]: https://github.com/WICG/manifest-incubations/blob/gh-pages/tabbed-mode-explainer.md
+[ot]: https://developer.chrome.com/origintrials/#/view_trial/3547710606461108225

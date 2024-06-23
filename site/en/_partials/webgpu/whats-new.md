@@ -2,6 +2,29 @@
 
 A list of everything that has been covered in the [What's New in WebGPU](/tags/new-in-webgpu/) series.
 
+### Chrome 119 {: #chrome119 }
+
+* [Filterable 32-bit float textures](/blog/new-in-webgpu-119/#filterable-32-bit-float-textures)
+* [unorm10-10-10-2 vertex format](/blog/new-in-webgpu-119/#unorm10-10-10-2-vertex-format)
+* [rgb10a2uint texture format](/blog/new-in-webgpu-119/#rgb10a2uint-texture-format)
+* [Dawn updates](/blog/new-in-webgpu-119/#dawn-updates)
+
+### Chrome 118 {: #chrome118 }
+
+* [HTMLImageElement and ImageData support in copyExternalImageToTexture()](/blog/new-in-webgpu-118/#htmlimageelement-and-imagedata-support-in-copyexternalimagetotexture)
+* [Experimental support for read-write and read-only storage texture](/blog/new-in-webgpu-118/#experimental-support-for-read-write-and-read-only-storage-texture)
+* [Dawn updates](/blog/new-in-webgpu-118/#dawn-updates)
+
+### Chrome 117 {: #chrome117 }
+
+* [Unset vertex buffer](/blog/new-in-webgpu-117/#unset-vertex-buffer)
+* [Unset bind group](/blog/new-in-webgpu-117/#unset-bind-group)
+* [Silence errors from async pipeline creation when device is lost](/blog/new-in-webgpu-117/#silence-errors-from-async-pipeline-creation-when-device-is-lost)
+* [SPIR-V shader module creation updates](/blog/new-in-webgpu-117/#spir-v-shader-module-creation-updates)
+* [Improving developer experience](/blog/new-in-webgpu-117/#improving-developer-experience)
+* [Caching pipelines with automatically generated layout](/blog/new-in-webgpu-117/#caching-pipelines-with-automatically-generated-layout)
+* [Dawn updates](/blog/new-in-webgpu-117/#dawn-updates)
+
 ### Chrome 116 {: #chrome116 }
 
 * [WebCodecs integration](/blog/new-in-webgpu-116/#webcodecs-integration)

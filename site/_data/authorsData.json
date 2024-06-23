@@ -1660,6 +1660,12 @@
   "helencho": {
     "image": "image/vgdbNJBYHma2o62ZqYmcnkq3j0o1/XAQGcTjOZYDZuupT6DIx.jpeg"
   },
+  "benkelly": {
+    "image": "image/VWw0b3pM7jdugTkwI6Y81n6f5Yc2/HSSgbvBPaJ3Kg41rlVXB.png"
+  },
+  "taofiksulaiman": {
+    "image": "image/VWw0b3pM7jdugTkwI6Y81n6f5Yc2/jPNfTyHJfMSbGdgj7roP.jpg"
+  },
   "kaustubhag": {
     "image": "image/vgdbNJBYHma2o62ZqYmcnkq3j0o1/Uva1hZaQBRpV8k1tJr7R.jpeg"
   },
@@ -1866,6 +1872,17 @@
     "country": "FR",
     "github": "hemeryar"
   },
+    "paulrossman": {
+    "country": "US",
+    "github": "paulrossman"
+  },
+  "nrosenthal": {
+    "country": "IL",
+    "github": "noamr",
+    "twitter": "nomsternom",
+    "mastodon": "https://indieweb.social/@nomster",
+    "image": "image/W3z1f5ZkBJSgL1V1IfloTIctbIF3/WvcwHjz1DNHSx2n7qCeM.jpg"
+  },
   "samrichard": {
     "country": "US",
     "twitter": "snugug",
@@ -1873,5 +1890,62 @@
     "glitch": "snugug",
     "homepage": "https://snugug.com",
     "image": "image/admin/5kuER6QRWs54zbYIJ4zS.jpg"
+  },
+  "xuezhoudai": {
+    "country": "CN",
+    "twitter": "imdaidr",
+    "github": "daidr",
+    "homepage": "https://im.daidr.me",
+    "image": "image/wVNVUJS8Z8O04i1tJKSdsp6nkRQ2/40TNtORm0BtUUR2IeF8Z.jpg"
+  },
+  "hadrijau": {
+    "country": "DE",
+    "github": "hadrijau",
+    "homepage": "https://www.hadrienjaubert.com",
+    "image": "image/NJdAV9UgKuN8AhoaPBquL7giZQo1/wawuvrG5lPYcSKABrMgq.png"
+  },
+  "jlwagner": {
+    "github": "malchata",
+    "linkedin": "malchata",
+    "homepage": "https://jlwagner.net/",
+    "country": "US",
+    "image": "image/jL3OLOhcWUQDnR4XjewLBx4e3PC3/YROiiX412sAFeV58NStI.jpg"
+  },
+  "adamraine": {
+    "country": "US",
+    "image": "image/9B7J9oWjgsWbuE84mmxDaY37Wpw2/gra2tr5xbhH5c8Zz9d3k.jpeg",
+    "github": "adamraine"
+  },
+  "schottfk": {
+    "twitter": "FredKSchott",
+    "image": "image/1L2RBhCLSnXjCnSlevaDjy3vba73/2jqKQUkysDpGKMudG0g8.jpg"
+  },
+  "phillipsm": {
+    "twitter": "matthewcp",
+    "image": "image/1L2RBhCLSnXjCnSlevaDjy3vba73/lu5YmuyoVJqP0flKUfKg.jpg"
+  },
+  "ferreiram": {
+    "twitter": "charca",
+    "image": "image/1L2RBhCLSnXjCnSlevaDjy3vba73/2nczWyIuJperJ2qSEpA3.jpg"
+  },
+  "silviaeremia7": {
+    "country": "DE",
+    "github": "silviaeremia7",
+    "linkedin": "silvia-eremia-432248234",
+    "image": "image/5eDxoIGI8JgwfKolhnOVPEVCaGu2/mBEutpRe3fn0X3FDAq3B.png"
+  },
+  "iforfota7": {
+    "country": "DE",
+    "github": "iforfota7",
+    "linkedin": "ioana-forfota-41116b260",
+    "image": "image/5eDxoIGI8JgwfKolhnOVPEVCaGu2/ld1F0IaoJE3rFI2jlILo.png"
+  },
+  "saurabhrajpal": {
+    "twitter": "imsaurabhrajpal",
+    "image": "image/ZDZVuXt6QqfXtxkpXcPGfnygYjd2/pgfTCNTb5C2ThMcZCzPQ.jpg"
+  },
+  "garimamimani": {
+    "country": "US",
+    "image": "image/hVf1flv5Jdag8OQKYqOcJgWUvtz1/C8uIe7Tmk9B5CEgVNJpC.jpeg"
   }
 }
